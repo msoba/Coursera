@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">proyectoSoba</string>
+    <string name="titulo">Bienvenidos</string>
+    <string name="texto_boton">Entrar</string>
+</resources>
